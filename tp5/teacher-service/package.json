@@ -1,0 +1,11 @@
+{
+  "name": "teacher-service",
+  "version": "1.0.0",
+  "main": "professor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haitam",
+  "license": "ISC",
+  "description": ""
+}
